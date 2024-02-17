@@ -10,7 +10,7 @@ Includes sample code for easy understanding and potential expansion.
 Project Setup:
 
 Clone the repository:
-git clone https://github.com/your_username/whatsapp-chatbot.git
+git clone https://github.com/EmilioGerdez/simple-waapi-client
 Install dependencies:
 pip install Flask requests python-dotenv
 Create .env file:
